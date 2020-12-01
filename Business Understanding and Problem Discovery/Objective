@@ -1,4 +1,10 @@
 /* Heart Disease Classification Web Application */
 
-The aim of this project is to build a model that is capable of identifying whether the person with the symptoms or conditions entered in the application is having a cardiovascular disease or not.
-Machine Learning(ML) is a branch of Artificial Intelligence(AI) that is increasingly utilized in thr field of cardiovascular medicine.
+Heart disease is the leading cause of death for men, women, and people of most racial and ethnic groups in the United States. One person dies every 36 seconds in the United States from cardiovascular disease.
+The aim of this project is to build a model that is capable of identifying whether the person with the symptoms or conditions entered in the application form is having a cardiovascular disease or not.
+There are subtle noticeable symptoms months prior in people before they can develop an actual heart disease.
+Machine Learning(ML) is a branch of Artificial Intelligence(AI) that is increasingly utilized in thr field of cardiovascular medicine.One of the earliest applications of the AI in cardiovascular medicine was in the area of cardiovascular drug therapy.
+In today's world AI-based applications have enhanced our understanding of different phenotypes of heart failure and congenital heart disease.
+
+However, there are several challenges in the clinical use of AI-based applications and interpretation of the results including poorly selected/outdated data or selection bias in the data which can lead to erroneous conclusions.
+
