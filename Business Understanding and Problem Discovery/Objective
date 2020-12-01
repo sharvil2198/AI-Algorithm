@@ -1,7 +1,8 @@
 /* Heart Disease Classification Web Application */
 
-Heart disease is the leading cause of death for men, women, and people of most racial and ethnic groups in the United States. One person dies every 36 seconds in the United States from cardiovascular disease.
+Heart disease is the leading cause of death for men, women and people of most racial and ethnic groups in the United States. One person dies every 36 seconds in the United States from cardiovascular disease.
 The aim of this project is to build a model that is capable of identifying whether the person with the symptoms or conditions entered in the application form is having a cardiovascular disease or not.
+This project uses Flask API to delpoy the model and build the web application.
 There are subtle noticeable symptoms months prior in people before they can develop an actual heart disease.
 Machine Learning(ML) is a branch of Artificial Intelligence(AI) that is increasingly utilized in thr field of cardiovascular medicine.One of the earliest applications of the AI in cardiovascular medicine was in the area of cardiovascular drug therapy.
 In today's world AI-based applications have enhanced our understanding of different phenotypes of heart failure and congenital heart disease.
