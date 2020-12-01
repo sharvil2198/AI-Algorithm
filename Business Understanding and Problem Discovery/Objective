@@ -1,4 +1,4 @@
-/*Coloring Black and White images using Deep Learning*/
+/* Heart Disease Classification Web Application */
 
-The aim of this project is to build a model that is capable of colorizing blcak and white images to colorful images.
-Professionals take few hours to recreate the same image in color but with the help oh deep learning, it makes easier for us to color these images.
+The aim of this project is to build a model that is capable of identifying whether the person with the symptoms or conditions entered in the application is having a cardiovascular disease or not.
+Machine Learning(ML) is a branch of Artificial Intelligence(AI) that is increasingly utilized in thr field of cardiovascular medicine.
